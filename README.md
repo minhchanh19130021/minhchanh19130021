@@ -9,7 +9,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Front End Development and other programming languages
+- 🌱 I’m currently learning FullStack Development and other programming languages
 
 - 📫 How to reach me **minhchanh1681@gmail.com**
 
